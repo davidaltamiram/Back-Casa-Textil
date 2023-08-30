@@ -1,0 +1,1 @@
+web: java -jar -Dserver.port=$PORT build/libs/casa_textil-0.0.1-SNAPSHOT.jar
